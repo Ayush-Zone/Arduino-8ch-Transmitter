@@ -28,10 +28,6 @@ This project implements an 8-channel PWM transmitter using an Arduino and nRF24L
   - `nRF24L01.h`
   - `RF24.h`
 
-## Circuit Diagram
-
-![Circuit Diagram](https://example.com/circuit_diagram.png)  
-*(You can replace this with your actual circuit diagram URL)*
 
 ### Pin Connections
 
