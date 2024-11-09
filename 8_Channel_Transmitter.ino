@@ -1,4 +1,4 @@
-// 8 Channel PPM Receiver
+// 8 Channel PWM Transmitter
 // Ayush Sharma
 // https://github.com/Ayush-Zone
 
